@@ -31,7 +31,6 @@ function createTag(input){
 }
 
 function randomSelect(){
-    console.log(123);
     const times = 30
 
     const interval = setInterval(() =>{
